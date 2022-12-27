@@ -1,7 +1,7 @@
 Rust masterrace
 
 <p align="center">
-  <img alt="Rust" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">&nbsp;
+  	<img alt="Rust" src="https://img.shields.io/badge/Rust-EA4800?style=for-the-badge&logo=Rust&logoColor=orange">&nbsp;
 	<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">&nbsp;
 	<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">&nbsp;
 	<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;
