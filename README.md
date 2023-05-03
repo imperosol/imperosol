@@ -13,9 +13,8 @@ Rust masterrace
 <p align="center">
 	<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;
 	<img alt="Jetbrains" src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp;
-	<img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;
+	<img alt="Manjaro" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;
 	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;
-	<img alt="WSL2" src="https://img.shields.io/badge/wsl-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;
 </p>
 
 
