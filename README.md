@@ -12,9 +12,12 @@ Rust masterrace
 
 <p align="center">
 	<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">&nbsp;
-	<img alt="Jetbrains" src="https://img.shields.io/badge/JetBrains-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">&nbsp;
 	<img alt="Manjaro" src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white">&nbsp;
 	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;
+</p>
+
+<p align="center">
+	<img alt=codewars" src="https://www.codewars.com/users/imperosol/badges/large">
 </p>
 
 
