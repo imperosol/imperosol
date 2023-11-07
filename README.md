@@ -1,5 +1,7 @@
 Rust masterrace
 
+## Skills
+
 <p align="center">
   	<img alt="Rust" src="https://img.shields.io/badge/Rust-EA4800?style=for-the-badge&logo=Rust">&nbsp;
 	<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">&nbsp;
@@ -16,9 +18,10 @@ Rust masterrace
 	<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">&nbsp;
 </p>
 
-<p align="center">
-	<img alt=codewars" src="https://www.codewars.com/users/imperosol/badges/large">
-</p>
+## [Codewars](https://www.codewars.com/users/imperosol)
+
+[![Codewars score](https://www.codewars.com/users/imperosol/badges/large)](https://www.codewars.com/users/imperosol)
+
 
 
 <!--
