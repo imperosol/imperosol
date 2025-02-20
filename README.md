@@ -1,4 +1,8 @@
-Rust masterrace
+I'm a french CS student.
+
+My main hobbies are history, giving some help for student events and waiting for the Great Proletarian Revolution.
+
+I don't use LLMs for writing code.
 
 ## Skills
 
